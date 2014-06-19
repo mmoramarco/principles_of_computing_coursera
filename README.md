@@ -1,4 +1,4 @@
-principles_of_computing_coursera
-================================
+Principles of Computing - Rice University and Coursera
+=====================
 
-Principles of Computing by Rice University/Coursera
+This repository represents my work for the Principles of Computing course from Rice University/Coursea. 
